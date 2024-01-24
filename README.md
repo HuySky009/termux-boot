@@ -1,4 +1,4 @@
-# Termux:Boot
+# Termux:Boot App
 
 [![Build status](https://github.com/termux/termux-boot/workflows/Build/badge.svg)](https://github.com/termux/termux-boot/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
